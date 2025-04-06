@@ -38,6 +38,11 @@ Found a mistake in the book? Simply open an issue:
 
 ### Chapter 2: Containers for Spring-Managed Beans
 
+#### AwtBicubicThumbnail for Thumbnails
+
+- ❌ shell:>upload-photo 'C:/Users/User/Desktop/neues-bild.jpg'
+- ✅ shell:>upload-photo 'C:/Users/User/Desktop/**new-image**.jpg'
+
 #### @DependsOn
 
 - ❌ @DependsOn( “fileSystem” )
