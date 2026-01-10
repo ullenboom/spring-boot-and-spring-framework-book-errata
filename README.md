@@ -63,6 +63,11 @@ Found a mistake in the book? Simply open an issue:
 - ❌ Here’s afictional example:
 - ✅ Here’s **a** fictional example:
 
+#### 2.10.1 @Conditional and Condition
+
+- ❌ We can put this class, which implements `@Condition`, to a component definition:
+- ✅ We can put this class, which implements `Condition`, to a component definition:
+
 
 ### Chapter 3: Selected Modules of the Spring Framework
 
